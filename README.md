@@ -1,4 +1,4 @@
-# Case Master — Convert Camel, Snake, Pascal & Kebab Case
+# Case Master | Convert Camel, Snake, Pascal & Kebab Case
 
 > Convert strings between camelCase, snake_case, PascalCase, kebab-case, and CONSTANT_CASE online. Handles acronyms and special characters offline.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Key Features
+## Features
 
 - **100% Client-Side & Offline:** Pure vanilla JavaScript runtime. Zero network uploads, zero telemetry, zero analytics tracking.
 - **Instant Processing:** Zero dependencies or heavy frameworks for ultra-fast, lightweight execution.
@@ -19,13 +19,13 @@
 
 ---
 
-## 📖 How It Works
+## How it works
 
 Type or paste variable names, file paths, or sentences. Case Master instantly generates all common programming casing conventions.
 
 ---
 
-## 🛠️ Offline Chrome Extension Installation
+## Install the extension
 
 1. Download or clone this repository:
    ```bash
@@ -38,7 +38,7 @@ Type or paste variable names, file paths, or sentences. Case Master instantly ge
 
 ---
 
-## 💡 Frequently Asked Questions (FAQ)
+## FAQ
 
 ### Is my data uploaded to any server?
 No. Everything executes locally inside your browser memory or extension sandbox. No telemetry, third-party scripts, or API requests are made.
@@ -53,7 +53,7 @@ const engine = require('./core');
 
 ---
 
-## 📄 License & Author
+## License and support
 
 - **Author:** [jju1s](https://github.com/cig13zs)
 - **License:** [MIT License](LICENSE)
